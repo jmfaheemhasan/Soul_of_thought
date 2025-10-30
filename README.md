@@ -2,5 +2,5 @@
 
 soul_of_thought.cpp
 
-When thoughts meet emotions —
+When thoughts meet emotions—
 this program reflects your mood through words, rain, and coffee.
